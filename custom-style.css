@@ -1,0 +1,20 @@
+.justice-banner{
+    background: linear-gradient(to top, rgba(17, 17, 17, 0.774), rgba(17, 17, 17, 0)), url(./images/Rectangle\ 4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    img
+    
+    
+}
+
+
+.carousel-lin-gradient{
+    background: linear-gradient(to top, rgb(17, 17, 17), rgba(17, 17, 17, 0.5));
+}
+
+.ad-su-mu-di{
+transition: 1s;
+}
+.ad-su-mu-di:hover{
+    transform: scale(1.25);
+    z-index: 2;
